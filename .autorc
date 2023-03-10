@@ -1,0 +1,11 @@
+{
+  "plugins": [
+    "git-tag",
+    "all-contributors",
+    "first-time-contributor",
+    "released"
+  ],
+  "owner": "rshadow",
+  "repo": "container-rfysnb8",
+  "name": "rshadow",
+}
